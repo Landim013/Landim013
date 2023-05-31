@@ -2,8 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-landim-004b75210/)
 
-
-![Landim GitHub stats](https://github-readme-stats.vercel.app/api?username=Landim013&show_icons=true)
+![Landim GitHub stats](https://github-readme-stats.vercel.app/api?username=Landim013&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Landim013&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,5 +15,4 @@
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
-
 
